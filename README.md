@@ -1,11 +1,9 @@
 # Uday Sthapak | Portfolio
 
 A modern and responsive personal portfolio website showcasing my projects, skills, and work as a developer.
-
 ## 🚀 Live Portfolio
 
-> Add your GitHub Pages link here after deployment.
-
+🌐 **[Click here to visit my live portfolio](https://udaysthapak555.github.io/portfolio/)**
 ## ✨ Features
 
 - Modern dark-themed UI
