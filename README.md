@@ -1,5 +1,9 @@
 # Uday Sthapak — Portfolio
 
+🚀 **[👉 Click here to visit my portfolio](https://udaysthapak555.github.io/portfolio/)**
+
+Welcome to my personal developer portfolio! Explore my projects, technical skills, and work in AI/ML and full-stack development.
+
 Responsive portfolio built with HTML, CSS, and vanilla JavaScript.
 
 ## Run locally
