@@ -28,33 +28,25 @@ An AI-focused application designed to classify medical reports, extract laborato
 
 ### 🛡️ SpamShield AI — Spam SMS Detection
 
-<div align="center">
-
-**Home Page**
-
-![SpamShield AI Home Page](./home-page.png)
-
-**SMS Analyzer**
-
 ![SpamShield AI SMS Analyzer](./sms-analyzer.png)
-
-</div>
 
 **Python · NLP · Machine Learning**
 
 A text-classification project focused on identifying spam messages using machine learning techniques.
 
-[↗ **Explore SpamShield AI**](https://github.com/UdaySthapak555/spam-sms-detection)
+[↗ **Explore SpamShield AI on GitHub**](https://github.com/UdaySthapak555/spam-sms-detection)
 
 ---
 
 ### 🎬 CineSense AI
 
-**Python · Machine Learning**
+![CineSense AI Preview](./home-page.png)
+
+**Python · Machine Learning · NLP**
 
 A movie-related machine learning project exploring genre classification and text-based insights.
 
-[↗ **Explore CineSense AI**](https://github.com/UdaySthapak555/CineSense-AI)
+[↗ **Explore CineSense AI on GitHub**](https://github.com/UdaySthapak555/CineSense-AI)
 
 ---
 
