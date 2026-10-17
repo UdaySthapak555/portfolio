@@ -14,50 +14,65 @@
 
 ## ◈ FEATURED PROJECTS
 
-<div align="center">
+### 🏥 MEDAI — AI Medical Report Assistant
 
-### 🏥 MEDAI
-**AI Medical Report Assistant**
+![MEDAI Dashboard](./screenshots/dashboard.png)
 
-An AI-focused application that classifies medical reports, extracts laboratory values, and presents information in understandable language. Designed for informational support, not medical diagnosis.
+**Python · FastAPI · React · Machine Learning**
 
-[**↗ Explore MEDAI on GitHub**](https://github.com/UdaySthapak555/MEDAI)
+An AI-focused application designed to classify medical reports, extract laboratory values, and present information in understandable language. It provides informational support, not medical diagnosis.
+
+[↗ **Explore MEDAI on GitHub**](https://github.com/UdaySthapak555/MEDAI)
 
 ---
 
-### 🛡️ SpamShield AI
-**Spam SMS Detection · NLP · Machine Learning**
+### 🛡️ SpamShield AI — Spam SMS Detection
 
-A text-classification project focused on identifying spam messages.
+<div align="center">
 
-[**↗ Explore SpamShield AI**](https://github.com/UdaySthapak555/spam-sms-detection)
+**Home Page**
+
+![SpamShield AI Home Page](./screenshots/home-page.png)
+
+**SMS Analyzer**
+
+![SpamShield AI SMS Analyzer](./screenshots/sms-analyzer.png)
+
+</div>
+
+**Python · NLP · Machine Learning**
+
+A text-classification project focused on identifying spam messages using machine learning techniques.
+
+[↗ **Explore SpamShield AI**](https://github.com/UdaySthapak555/spam-sms-detection)
 
 ---
 
 ### 🎬 CineSense AI
-**Machine Learning**
+
+**Python · Machine Learning**
 
 A movie-related machine learning project exploring genre classification and text-based insights.
 
-[**↗ Explore CineSense AI**](https://github.com/UdaySthapak555/CineSense-AI)
+[↗ **Explore CineSense AI**](https://github.com/UdaySthapak555/CineSense-AI)
 
 ---
 
 ### 💳 Credit Card Fraud Detection
-**Data Science · Machine Learning**
+
+**Python · Data Science · Machine Learning**
 
 A machine learning project focused on detecting potentially fraudulent credit card transactions.
 
-[**↗ Explore the Repository**](https://github.com/UdaySthapak555/credit-card-fraud-detection-ml)
+[↗ **Explore Repository**](https://github.com/UdaySthapak555/credit-card-fraud-detection-ml)
 
 ---
 
-### 🎙️ InterviewAI
-**AI Mock Interview Platform · In Progress**
+### 🎙️ InterviewAI — AI Mock Interview Platform
 
-An in-progress application exploring resume-based interview questions, answer evaluation, and feedback using the Gemini API.
+**Python · Streamlit · Gemini API**
 
-</div>
+An in-progress project exploring personalized interview questions, answer evaluation, and feedback based on a user's resume.
 
 ---
 
