@@ -2,17 +2,60 @@
 
 <div align="center">
 
-# ⚡ UDAY STHAPAK
-
-### `AI/ML Developer` · `Full-Stack Developer` · `BCA Student`
-
 **Building intelligent applications, solving problems, and turning ideas into reality.**
-
-<br/>
 
 [🌅 **VISIT MY LIVE PORTFOLIO →**](https://udaysthapak555.github.io/portfolio/)
 
 [💻 GitHub](https://github.com/UdaySthapak555) · [🔗 LinkedIn](https://linkedin.com/in/udaysthapak) · [✉️ Email](mailto:uday555sthapak@gmail.com)
+
+</div>
+
+---
+
+## ◈ FEATURED PROJECTS
+
+<div align="center">
+
+### 🏥 MEDAI
+**AI Medical Report Assistant**
+
+An AI-focused application that classifies medical reports, extracts laboratory values, and presents information in understandable language. Designed for informational support, not medical diagnosis.
+
+[**↗ Explore MEDAI on GitHub**](https://github.com/UdaySthapak555/MEDAI)
+
+---
+
+### 🛡️ SpamShield AI
+**Spam SMS Detection · NLP · Machine Learning**
+
+A text-classification project focused on identifying spam messages.
+
+[**↗ Explore SpamShield AI**](https://github.com/UdaySthapak555/spam-sms-detection)
+
+---
+
+### 🎬 CineSense AI
+**Machine Learning**
+
+A movie-related machine learning project exploring genre classification and text-based insights.
+
+[**↗ Explore CineSense AI**](https://github.com/UdaySthapak555/CineSense-AI)
+
+---
+
+### 💳 Credit Card Fraud Detection
+**Data Science · Machine Learning**
+
+A machine learning project focused on detecting potentially fraudulent credit card transactions.
+
+[**↗ Explore the Repository**](https://github.com/UdaySthapak555/credit-card-fraud-detection-ml)
+
+---
+
+### 🎙️ InterviewAI
+**AI Mock Interview Platform · In Progress**
+
+An in-progress application exploring resume-based interview questions, answer evaluation, and feedback using the Gemini API.
 
 </div>
 
@@ -30,7 +73,7 @@
 
 ## ◈ TECH STACK
 
-### Languages
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -38,62 +81,20 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI / Machine Learning
+**AI / Machine Learning**
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)
 
-### Web Development & Tools
+**Web Development & Tools**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## ◈ FEATURED PROJECTS
-
-### 🏥 MEDAI — AI Medical Report Assistant
-
-**Tech:** Python · FastAPI · React · Machine Learning
-
-An AI-focused application designed to classify medical reports, extract useful laboratory values, and explain information in a more understandable format. It provides informational support, not medical diagnosis.
-
-[↗ Explore MEDAI on GitHub](https://github.com/UdaySthapak555/MEDAI)
-
-### 🛡️ SpamShield AI — Spam SMS Detection
-
-**Tech:** Python · NLP · Machine Learning
-
-A machine learning project focused on identifying spam messages using text-processing and classification techniques.
-
-[↗ Explore SpamShield AI](https://github.com/UdaySthapak555/spam-sms-detection)
-
-### 🎬 CineSense AI
-
-**Tech:** Python · Machine Learning
-
-A movie-related machine learning project exploring genre classification and text-based insights.
-
-[↗ Explore CineSense AI](https://github.com/UdaySthapak555/CineSense-AI)
-
-### 💳 Credit Card Fraud Detection
-
-**Tech:** Python · Data Science · Machine Learning
-
-A machine learning project focused on detecting potentially fraudulent credit card transactions.
-
-[↗ Explore the Repository](https://github.com/UdaySthapak555/credit-card-fraud-detection-ml)
-
-### 🎙️ InterviewAI — AI Mock Interview Platform
-
-**Tech:** Python · Streamlit · Gemini API
-
-An in-progress project exploring personalized interview questions, answer evaluation, and feedback based on a user's resume.
 
 ---
 
@@ -122,8 +123,6 @@ An in-progress project exploring personalized interview questions, answer evalua
 ### Have an idea? Let's build something meaningful.
 
 Open to connecting with developers, learning from others, and exploring interesting projects.
-
-<br/>
 
 [🚀 **EXPLORE MY PORTFOLIO**](https://udaysthapak555.github.io/portfolio/)
 
