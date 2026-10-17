@@ -16,7 +16,7 @@
 
 ### 🏥 MEDAI — AI Medical Report Assistant
 
-![MEDAI Dashboard](./screenshots/dashboard.png)
+![MEDAI Dashboard](./dashboard.png)
 
 **Python · FastAPI · React · Machine Learning**
 
@@ -32,11 +32,11 @@ An AI-focused application designed to classify medical reports, extract laborato
 
 **Home Page**
 
-![SpamShield AI Home Page](./screenshots/home-page.png)
+![SpamShield AI Home Page](./home-page.png)
 
 **SMS Analyzer**
 
-![SpamShield AI SMS Analyzer](./screenshots/sms-analyzer.png)
+![SpamShield AI SMS Analyzer](./sms-analyzer.png)
 
 </div>
 
@@ -88,7 +88,7 @@ An in-progress project exploring personalized interview questions, answer evalua
 
 ## ◈ TECH STACK
 
-**Languages**
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -96,14 +96,14 @@ An in-progress project exploring personalized interview questions, answer evalua
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**AI / Machine Learning**
+### AI / Machine Learning
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)
 
-**Web Development & Tools**
+### Web Development & Tools
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
