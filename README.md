@@ -1,4 +1,4 @@
-![Uday Sthapak — Cozy Sunset Developer Banner](portfolio-banner.png)
+![Uday Sthapak — Cozy Sunset Developer Banner](./portfolio-banner.png)
 
 <div align="center">
 
@@ -101,15 +101,15 @@ An in-progress project exploring personalized interview questions, answer evalua
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=UdaySthapak555&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=UdaySthapak555&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=UdaySthapak555&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=UdaySthapak555&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdaySthapak555&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdaySthapak555&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 
 </div>
 
