@@ -1,4 +1,4 @@
-# Uday Sthapak — Extraordinary Interactive Portfolio
+# Uday Sthapak — Portfolio
 
 Responsive portfolio built with HTML, CSS, and vanilla JavaScript.
 
