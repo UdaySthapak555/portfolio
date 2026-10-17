@@ -1,61 +1,24 @@
-# Uday Sthapak | Portfolio
+# Uday Sthapak — Extraordinary Interactive Portfolio
 
-A modern and responsive personal portfolio website showcasing my projects, skills, and work as a developer.
-## 🚀 Live Portfolio
+Responsive portfolio built with HTML, CSS, and vanilla JavaScript.
 
-🌐 **[Click here to visit my live portfolio](https://udaysthapak555.github.io/portfolio/)**
-## ✨ Features
+## Run locally
+Open this folder in VS Code and use **Open with Live Server** on `index.html`.
 
-- Modern dark-themed UI
-- Responsive design for mobile, tablet, and desktop
-- Interactive project screenshot galleries
-- Smooth scroll and navigation effects
-- Scroll reveal animations
-- Interactive project cards
-- GitHub and LinkedIn integration
-- Professional footer with back-to-top navigation
+## Interactive features
+- Global cursor aura and pointer-responsive portrait/card tilt
+- Pointer-following project-card spotlights
+- Magnetic hero/contact CTAs and click ripple feedback
+- Filter projects by All work, AI/ML, NLP, Full-stack, or In progress
+- Keyboard command palette: Ctrl/⌘ + K; type a section and press Enter
+- Scroll progress, active navigation, scroll reveals, and back-to-top control
+- Responsive layout and reduced-motion support
 
-## 🛠️ Built With
+## Projects
+- MEDAI — https://github.com/UdaySthapak555/MEDAI
+- InterviewAI — nearly complete; no public repository link yet
+- SpamShield AI — https://github.com/UdaySthapak555/spam-sms-detection
+- CineSense AI — https://github.com/UdaySthapak555/CineSense-AI
+- Credit Card Fraud Detection — https://github.com/UdaySthapak555/credit-card-fraud-detection-ml
 
-- HTML5
-- CSS3
-- JavaScript
-
-## 📂 Featured Projects
-
-### 1. SpamShield AI
-
-An AI-based SMS spam detection project that analyzes messages and classifies them as spam or legitimate.
-
-🔗 [View Repository](https://github.com/UdaySthapak555/spam-sms-detection)
-
-### 2. Credit Card Fraud Detection
-
-A machine learning project focused on detecting fraudulent credit card transactions using data analysis and classification models.
-
-🔗 [View Repository](https://github.com/UdaySthapak555/credit-card-fraud-detection-ml)
-
-### 3. CineSense AI
-
-An AI-powered project focused on movie genre classification and prediction.
-
-🔗 [View Repository](https://github.com/UdaySthapak555/CineSense-AI)
-
-## 📁 Project Structure
-
-```text
-portfolio/
-│
-├── index.html
-├── style.css
-├── script.js
-├── README.md
-│
-└── images/
-    ├── spamshield-analyzer.png
-    ├── spamshield-dashboard.png
-    ├── fraud-performance.png
-    ├── fraud-confusion-matrix.png
-    ├── fraud-roc-curve.png
-    ├── cinesense-home.png
-    └── cinesense-prediction.png
+Keep `uday-profile.png` and `Uday_Sthapak_Resume.pdf` in the same folder as `index.html`.

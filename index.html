@@ -1,887 +1,185 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-
-    <meta
-        name="viewport"
-        content="width=device-width, initial-scale=1.0"
-    >
-
-    <title>Uday Sthapak | Portfolio</title>
-
-    <link
-        rel="preconnect"
-        href="https://fonts.googleapis.com"
-    >
-
-    <link
-        rel="preconnect"
-        href="https://fonts.gstatic.com"
-        crossorigin
-    >
-
-    <link
-        href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap"
-        rel="stylesheet"
-    >
-
-    <link
-        rel="stylesheet"
-        href="style.css"
-    >
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#080914">
+  <meta name="description" content="Uday Sthapak — AI/ML and software developer building thoughtful, useful digital products.">
+  <title>Uday Sthapak — AI / Software Developer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
 </head>
-
 <body>
+  <div class="ambient ambient-one" aria-hidden="true"></div>
+  <div class="ambient ambient-two" aria-hidden="true"></div>
+  <div class="grain" aria-hidden="true"></div>\n  <div class="cursor-aura" id="cursor-aura" aria-hidden="true"><span></span></div>
+  <div class="scroll-progress" aria-hidden="true"><span id="progress-bar"></span></div>
 
-    <div class="background-grid"></div>
+  <header class="topbar">
+    <a class="wordmark" href="#home" aria-label="Uday Sthapak home"><span class="mark">u<span>.</span></span><span class="wordmark-text">UDAY STHAPAK<small>AI · SOFTWARE · BUILDER</small></span></a>
+    <button class="menu-toggle" id="menu-toggle" aria-expanded="false" aria-controls="main-nav" aria-label="Open navigation"><span></span><span></span></button>
+    <nav id="main-nav" class="main-nav">
+      <a class="nav-link active" href="#home">Home</a><a class="nav-link" href="#work">Work</a><a class="nav-link" href="#about">About</a><a class="nav-link" href="#stack">Stack</a><a class="nav-link" href="#contact">Contact</a>
+    </nav>
+    <a class="availability" href="#contact"><span class="availability-dot"></span> Open to opportunities <span class="arrow">↗</span></a>
+  </header>
 
-
-    <!-- ================= NAVBAR ================= -->
-
-    <header class="navbar">
-
-        <a href="#home" class="logo">
-            US<span>.</span>
-        </a>
-
-
-        <nav class="nav-links">
-
-            <a href="#about">About</a>
-
-            <a href="#projects">Projects</a>
-
-            <a href="#skills">Skills</a>
-
-            <a href="#contact">Contact</a>
-
-        </nav>
-
-
-        <a
-            href="https://github.com/UdaySthapak555"
-            target="_blank"
-            class="github-btn"
-        >
-            GitHub ↗
-        </a>
-
-    </header>
-
-
-    <!-- ================= HERO ================= -->
-
-    <main id="home" class="hero">
-
-        <div class="hero-content">
-
-            <div class="status">
-
-                <span class="status-dot"></span>
-
-                AVAILABLE FOR OPPORTUNITIES
-
-            </div>
-
-
-            <p class="intro">
-                HELLO, I'M
-            </p>
-
-
-            <h1>
-
-                UDAY
-
-                <span>
-                    STHAPAK.
-                </span>
-
-            </h1>
-
-
-            <p class="hero-description">
-
-                BCA Student and aspiring developer focused on
-                building practical solutions through
-
-                <strong>
-                    technology, AI, and code.
-                </strong>
-
-            </p>
-
-
-            <div class="hero-buttons">
-
-                <a
-                    href="#projects"
-                    class="primary-btn"
-                >
-                    Explore My Work ↓
-                </a>
-
-
-                <a
-                    href="https://www.linkedin.com/in/udaysthapak/"
-                    target="_blank"
-                    class="secondary-btn"
-                >
-                    LinkedIn ↗
-                </a>
-
-            </div>
-
+  <main>
+    <section class="hero section-shell" id="home">
+      <div class="hero-copy">
+        <div class="eyebrow"><span class="eyebrow-line"></span> PORTFOLIO / 2026 <span class="eyebrow-divider">—</span> GREATER NOIDA, INDIA</div>
+        <p class="intro-label">HEY, I'M UDAY.</p>
+        <h1>I build <span class="headline-gradient">intelligent</span><br>things<span class="period">.</span></h1>
+        <p class="hero-description">AI/ML enthusiast and software developer turning curious ideas into useful, thoughtfully-built digital experiences.</p>
+        <div class="hero-cta">
+          <a class="btn btn-primary" href="#work">Explore selected work <span>↘</span></a>
+          <a class="btn btn-secondary" href="Uday_Sthapak_Resume.pdf" target="_blank" rel="noreferrer"><span class="download-icon">↓</span> View résumé</a>
         </div>
-
-
-        <!-- ================= HERO VISUAL ================= -->
-
-        <div class="hero-visual">
-
-
-            <div class="hero-arch">
-
-                <div class="arch-glow"></div>
-
-
-                <div class="arch-frame">
-
-                    <div class="arch-door">
-
-                        <div class="arch-initials">
-                            US
-                        </div>
-
-
-                        <div class="arch-line"></div>
-
-
-                        <p>
-                            DEVELOPER PORTFOLIO
-                        </p>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-
-            <!-- FLOATING CARDS -->
-
-            <div class="floating-card card-1">
-
-                <span class="card-label">
-                    FOCUS
-                </span>
-
-                <strong>
-                    AI / ML
-                </strong>
-
-            </div>
-
-
-            <div class="floating-card card-2">
-
-                <span class="card-label">
-                    BUILDING
-                </span>
-
-                <strong>
-                    Projects
-                </strong>
-
-            </div>
-
-
-            <div class="floating-card card-3">
-
-                <span class="card-label">
-                    STATUS
-                </span>
-
-                <strong>
-                    Learning++
-                </strong>
-
-            </div>
-
+        <div class="hero-socials"><a href="https://github.com/UdaySthapak555" target="_blank" rel="noreferrer">GitHub <span>↗</span></a><a href="https://www.linkedin.com/in/udaysthapak/" target="_blank" rel="noreferrer">LinkedIn <span>↗</span></a><a href="mailto:uday555sthapak@gmail.com">Email <span>↗</span></a></div>
+      </div>
+      <div class="hero-visual portrait-visual" id="hero-visual" aria-label="Portrait of Uday Sthapak with interactive visual effects">
+        <div class="portrait-halo halo-one"></div><div class="portrait-halo halo-two"></div><div class="portrait-orbit orbit-a"></div><div class="portrait-orbit orbit-b"></div>
+        <div class="portrait-frame" data-tilt>
+          <div class="portrait-frame-glow"></div>
+          <img class="profile-photo" src="uday-profile.png" alt="Uday Sthapak wearing a black blazer and white shirt">
+          <div class="portrait-frame-shade"></div>
+          <div class="portrait-caption"><span class="portrait-caption-dot"></span><span>UDAY STHAPAK</span><small>AI / SOFTWARE DEVELOPER</small></div>
+          <span class="portrait-corner corner-tl"></span><span class="portrait-corner corner-br"></span>
         </div>
-
-    </main>
-
-
-    <!-- ================= ABOUT ================= -->
-
-    <section
-        id="about"
-        class="about"
-    >
-
-        <div class="section-label">
-
-            <span>01</span>
-
-            ABOUT ME
-
-        </div>
-
-
-        <div class="about-content">
-
-            <div class="about-heading">
-
-                <h2>
-
-                    Building ideas.
-
-                    <span>
-                        Learning constantly.
-                    </span>
-
-                </h2>
-
-            </div>
-
-
-            <div class="about-text">
-
-                <p>
-
-                    I'm <strong>Uday Sthapak</strong>, a BCA student
-                    interested in software development, artificial
-                    intelligence, machine learning, and solving
-                    practical problems using technology.
-
-                </p>
-
-
-                <p>
-
-                    I enjoy learning by building projects and
-                    experimenting with new technologies. My goal is
-                    to continuously improve my skills and build
-                    meaningful digital solutions.
-
-                </p>
-
-
-                <a
-                    href="https://www.linkedin.com/in/udaysthapak/"
-                    target="_blank"
-                    class="text-link"
-                >
-
-                    MORE ABOUT ME ↗
-
-                </a>
-
-            </div>
-
-        </div>
-
-
-        <div class="about-stats">
-
-            <div class="stat">
-
-                <span class="stat-number">
-                    03+
-                </span>
-
-                <span class="stat-label">
-                    PROJECTS BUILT
-                </span>
-
-            </div>
-
-
-            <div class="stat">
-
-                <span class="stat-number">
-                    AI
-                </span>
-
-                <span class="stat-label">
-                    MAIN INTEREST
-                </span>
-
-            </div>
-
-
-            <div class="stat">
-
-                <span class="stat-number">
-                    BCA
-                </span>
-
-                <span class="stat-label">
-                    EDUCATION
-                </span>
-
-            </div>
-
-        </div>
-
+        <div class="floating-card float-top" data-parallax="1.4"><span class="float-icon">✳</span><span><small>FOCUS</small><b>AI + ML</b></span><span class="float-arrow">↗</span></div>
+        <div class="floating-card float-bottom" data-parallax="-.9"><span class="code-icon">&lt;/&gt;</span><span><small>APPROACH</small><b>Build. Learn. Repeat.</b></span></div>
+        <div class="visual-label label-top">CREATIVE SYSTEMS / 001</div>
+        <div class="visual-label label-bottom">CURIOUS BY DESIGN <span>✦</span></div>
+        <div class="crosshair crosshair-one">+</div><div class="crosshair crosshair-two">+</div>
+      </div>
+      <div class="hero-bottomline"><span><span class="pulse"></span> CURRENTLY BUILDING & LEARNING</span><span>SCROLL TO EXPLORE <span class="down-arrow">↓</span></span></div>
     </section>
 
+    <section class="ticker" aria-label="Areas of interest"><div class="ticker-track"><span>ARTIFICIAL INTELLIGENCE</span><i>✳</i><span>MACHINE LEARNING</span><i>✳</i><span>SOFTWARE DEVELOPMENT</span><i>✳</i><span>GENERATIVE AI</span><i>✳</i><span>ARTIFICIAL INTELLIGENCE</span><i>✳</i><span>MACHINE LEARNING</span><i>✳</i><span>SOFTWARE DEVELOPMENT</span><i>✳</i><span>GENERATIVE AI</span><i>✳</i></div></section>
 
-    <!-- ================= PROJECTS ================= -->
-
-    <section
-        id="projects"
-        class="projects"
-    >
-
-        <div class="projects-header">
-
-            <div class="section-label">
-
-                <span>02</span>
-
-                SELECTED WORK
-
-            </div>
-
-
-            <p class="projects-intro">
-
-                A selection of projects where I explore
-
-                <strong>
-                    machine learning, artificial intelligence,
-                    NLP, and practical problem-solving.
-                </strong>
-
-            </p>
-
+    <section class="work section-shell section-pad" id="work">
+      <div class="section-top"><span class="section-number">01 / SELECTED WORK</span><span class="section-note">A FEW THINGS I'VE BEEN MAKING <span>↘</span></span></div>
+      <div class="work-heading reveal"><h2>Less talk.<br><span>More building.</span></h2><p>Projects are where concepts become tangible. Here are a couple of things I’ve been working on across AI, machine learning, and software.</p></div>
+      <div class="project-controls reveal" aria-label="Filter projects">
+        <div class="project-filter-label"><span class="filter-live-dot"></span> EXPLORE BY CATEGORY</div>
+        <div class="project-filters" role="group" aria-label="Project category filters">
+          <button class="filter-chip active" type="button" data-filter="all" aria-pressed="true">All work <span>05</span></button>
+          <button class="filter-chip" type="button" data-filter="ai" aria-pressed="false">AI / ML</button>
+          <button class="filter-chip" type="button" data-filter="nlp" aria-pressed="false">NLP</button>
+          <button class="filter-chip" type="button" data-filter="fullstack" aria-pressed="false">Full-stack</button>
+          <button class="filter-chip" type="button" data-filter="inprogress" aria-pressed="false">In progress</button>
         </div>
-
-
-        <!-- PROJECT 1 -->
-
-        <article class="project-card">
-
-            <div class="project-number">
-                01
-            </div>
-
-
-            <div class="project-content">
-
-                <span class="project-category">
-
-                    MACHINE LEARNING · NLP
-
-                </span>
-
-
-                <h3>
-                    SpamShield AI
-                </h3>
-
-
-                <p>
-
-                    An intelligent SMS spam detection system that
-                    classifies messages as spam or legitimate using
-                    Natural Language Processing, TF-IDF vectorization,
-                    and machine learning.
-
-                </p>
-
-
-                <div class="project-tags">
-
-                    <span>Python</span>
-
-                    <span>NLP</span>
-
-                    <span>TF-IDF</span>
-
-                    <span>Linear SVM</span>
-
-                    <span>Streamlit</span>
-
-                </div>
-
-
-                <a
-                    href="https://github.com/UdaySthapak555/spam-sms-detection"
-                    target="_blank"
-                    class="project-link"
-                >
-
-                    VIEW PROJECT ↗
-
-                </a>
-
-            </div>
-
-
-            <div class="project-visual project-gallery" data-project="spam">
-    <div class="gallery-frame">
-        <img class="project-shot active"
-             src="images/spamshield-analyzer.png"
-             alt="SpamShield AI SMS analyzer interface">
-        <img class="project-shot"
-             src="images/spamshield-dashboard.png"
-             alt="SpamShield AI model analytics dashboard">
-
-        <div class="gallery-overlay"></div>
-
-        <div class="gallery-meta">
-            <span class="gallery-label">PROJECT VIEW</span>
-            <span class="gallery-counter">01 / 02</span>
-        </div>
-
-        <div class="gallery-controls" aria-label="SpamShield AI screenshots">
-            <button class="gallery-dot active" data-index="0" type="button" aria-label="View screenshot 1">01</button>
-            <button class="gallery-dot" data-index="1" type="button" aria-label="View screenshot 2">02</button>
-        </div>
-    </div>
-</div>
-
+        <p class="filter-result" aria-live="polite">Showing <strong>5</strong> projects <span>— select a category to explore</span></p>
+      </div>
+      <div class="project-grid">
+        <article class="project-card project-medai reveal" data-tilt tabindex="0" role="button" aria-label="Open MEDAI project details" data-project="medai" data-categories="ai fullstack">
+          <div class="project-visual medai-visual"><div class="card-spotlight" aria-hidden="true"></div>
+            <div class="project-window">
+              <div class="window-bar"><div class="window-dots"><i></i><i></i><i></i></div><span>MEDAI / REPORT OVERVIEW</span><span class="window-status">● ACTIVE</span></div>
+              <div class="medical-preview"><aside><div class="mini-brand">M<span>.</span></div><div class="side-item active">Overview</div><div class="side-item">My reports</div><div class="side-item">Insights</div><div class="side-bottom">PERSONAL HEALTH</div></aside><div class="medical-content"><span class="micro-label">REPORT SUMMARY / 001</span><h4>Understand your<br>health report.</h4><div class="metric-cards"><div class="metric"><small>HEMOGLOBIN</small><strong>13.8 <em>g/dL</em></strong><span class="metric-line"><i></i></span></div><div class="metric"><small>WHITE BLOOD CELLS</small><strong>6.4 <em>k/µL</em></strong><span class="metric-line"><i></i></span></div></div><div class="insight-box"><span>✦</span><div><b>Insights, made clearer</b><small>Understand values in simple language.</small></div></div></div></div>
+            </div><div class="visual-sticker sticker-health">HEALTH TECH <span>↗</span></div>
+          </div>
+          <div class="project-details"><div class="project-topline"><span>01 — AI / HEALTH TECH</span><span class="project-number">01</span></div><h3>MEDAI<span class="project-title-tail"> — Medical Report Assistant</span></h3><p>A full-stack educational application that extracts report text, screens selected lab values, and explains results in more approachable language.</p><div class="project-footer"><div class="tech-tags"><span>Python</span><span>FastAPI</span><span>React</span><span>ML</span></div><a class="project-link" href="https://github.com/UdaySthapak555/MEDAI" target="_blank" rel="noreferrer">Explore repository <span>↗</span></a></div></div>
         </article>
 
-
-        <!-- PROJECT 2 -->
-
-        <article class="project-card">
-
-            <div class="project-number">
-                02
-            </div>
-
-
-            <div class="project-content">
-
-                <span class="project-category">
-
-                    MACHINE LEARNING · DATA SCIENCE
-
-                </span>
-
-
-                <h3>
-                    Credit Card<br>
-                    Fraud Detection
-                </h3>
-
-
-                <p>
-
-                    A machine learning system that identifies
-                    potentially fraudulent credit card transactions
-                    by training, evaluating, and comparing multiple
-                    classification models.
-
-                </p>
-
-
-                <div class="project-tags">
-
-                    <span>Python</span>
-
-                    <span>Scikit-learn</span>
-
-                    <span>Decision Tree</span>
-
-                    <span>Random Forest</span>
-
-                    <span>Streamlit</span>
-
-                </div>
-
-
-                <a
-                    href="https://github.com/UdaySthapak555/credit-card-fraud-detection-ml"
-                    target="_blank"
-                    class="project-link"
-                >
-
-                    VIEW PROJECT ↗
-
-                </a>
-
-            </div>
-
-
-            <div class="project-visual project-gallery" data-project="fraud">
-    <div class="gallery-frame">
-        <img class="project-shot active"
-             src="images/fraud-performance.png"
-             alt="Credit card fraud detection model performance comparison">
-        <img class="project-shot"
-             src="images/fraud-confusion-matrix.png"
-             alt="Credit card fraud detection confusion matrix">
-        <img class="project-shot"
-             src="images/fraud-roc-curve.png"
-             alt="Credit card fraud detection ROC curve">
-
-        <div class="gallery-overlay"></div>
-
-        <div class="gallery-meta">
-            <span class="gallery-label">MODEL ANALYTICS</span>
-            <span class="gallery-counter">01 / 03</span>
-        </div>
-
-        <div class="gallery-controls" aria-label="Credit card fraud detection screenshots">
-            <button class="gallery-dot active" data-index="0" type="button" aria-label="View screenshot 1">01</button>
-            <button class="gallery-dot" data-index="1" type="button" aria-label="View screenshot 2">02</button>
-            <button class="gallery-dot" data-index="2" type="button" aria-label="View screenshot 3">03</button>
-        </div>
-    </div>
-</div>
-
+        <article class="project-card project-interview reveal" data-tilt tabindex="0" role="button" aria-label="Open InterviewAI project details" data-project="interviewai" data-categories="ai fullstack inprogress">
+          <div class="project-visual interview-visual"><div class="card-spotlight" aria-hidden="true"></div>
+            <div class="interview-orbit orbit-large"></div><div class="interview-orbit orbit-small"></div><div class="interview-sphere"><span>AI</span><i></i></div>
+            <div class="interview-ui"><div class="interview-ui-head"><span>INTERVIEWAI</span><span class="session-pill">SESSION / 01</span></div><div class="question-label">YOUR NEXT QUESTION</div><h4>Tell me about a<br>challenge you solved.</h4><div class="answer-wave"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div><div class="interview-ui-foot"><span>PERSONALIZED PRACTICE</span><span>01 / 10</span></div></div>
+            <div class="visual-sticker sticker-progress"><span class="progress-pip"></span> IN DEVELOPMENT</div>
+          </div>
+          <div class="project-details"><div class="project-topline"><span>02 — GENERATIVE AI</span><span class="project-number">02</span></div><h3>InterviewAI<span class="project-title-tail"> — Mock Interview Platform</span></h3><p>A personalized interview practice app that uses resume context to generate questions and deliver AI-powered answer feedback. A few features are still in progress.</p><div class="project-footer"><div class="tech-tags"><span>Python</span><span>Streamlit</span><span>Gemini API</span></div><button class="project-link details-trigger" type="button" data-open-project="interviewai">Project details <span>↗</span></button></div></div>
+        </article>
+        <article class="project-card project-spam reveal" data-tilt tabindex="0" role="button" aria-label="Open SpamShield AI project details" data-project="spamshield" data-categories="ai nlp">
+          <div class="project-visual spam-visual"><div class="card-spotlight" aria-hidden="true"></div>
+            <div class="spam-console"><div class="console-top"><span>SPAMSHIELD / MESSAGE ANALYZER</span><span class="console-dot">● READY</span></div>
+              <div class="sms-bubble">Congratulations! You have won a prize. Click here to claim…</div>
+              <div class="scan-status"><span class="scan-spark">✳</span><div><small>CLASSIFICATION RESULT</small><strong>Potential spam detected</strong></div><span class="risk-pill">HIGH RISK</span></div>
+              <div class="console-bars"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+              <div class="console-foot"><span>TF-IDF + LINEAR SVM</span><span>F1 SCORE / 93.66%</span></div>
+            </div><div class="visual-sticker spam-sticker">NLP / SECURITY <span>↗</span></div>
+          </div>
+          <div class="project-details"><div class="project-topline"><span>03 — NLP / CYBER SAFETY</span><span class="project-number">03</span></div><h3>SpamShield AI<span class="project-title-tail"> — SMS Threat Detection</span></h3><p>An NLP-powered SMS classifier that compares machine-learning models and flags suspicious messages, with an interactive analytics dashboard.</p><div class="project-footer"><div class="tech-tags"><span>Python</span><span>TF-IDF</span><span>Linear SVM</span><span>Streamlit</span></div><a class="project-link" href="https://github.com/UdaySthapak555/spam-sms-detection" target="_blank" rel="noreferrer">Explore repository <span>↗</span></a></div></div>
         </article>
 
-
-        <!-- PROJECT 3 -->
-
-        <article class="project-card">
-
-            <div class="project-number">
-                03
-            </div>
-
-
-            <div class="project-content">
-
-                <span class="project-category">
-
-                    AI · NLP · WEB APPLICATION
-
-                </span>
-
-
-                <h3>
-                    CineSense AI
-                </h3>
-
-
-                <p>
-
-                    An AI-powered movie genre classification
-                    application that predicts a movie's genre from
-                    its plot summary and provides prediction
-                    confidence.
-
-                </p>
-
-
-                <div class="project-tags">
-
-                    <span>Python</span>
-
-                    <span>NLP</span>
-
-                    <span>TF-IDF</span>
-
-                    <span>Logistic Regression</span>
-
-                    <span>Flask</span>
-
-                </div>
-
-
-                <a
-                    href="https://github.com/UdaySthapak555/CineSense-AI"
-                    target="_blank"
-                    class="project-link"
-                >
-
-                    VIEW PROJECT ↗
-
-                </a>
-
-            </div>
-
-
-            <div class="project-visual project-gallery" data-project="cinesense">
-    <div class="gallery-frame">
-        <img class="project-shot active"
-             src="images/cinesense-home.png"
-             alt="CineSense AI movie genre classification interface">
-        <img class="project-shot"
-             src="images/cinesense-prediction.png"
-             alt="CineSense AI genre prediction result">
-
-        <div class="gallery-overlay"></div>
-
-        <div class="gallery-meta">
-            <span class="gallery-label">AI PREDICTION</span>
-            <span class="gallery-counter">01 / 02</span>
-        </div>
-
-        <div class="gallery-controls" aria-label="CineSense AI screenshots">
-            <button class="gallery-dot active" data-index="0" type="button" aria-label="View screenshot 1">01</button>
-            <button class="gallery-dot" data-index="1" type="button" aria-label="View screenshot 2">02</button>
-        </div>
-    </div>
-</div>
-
+        <article class="project-card project-cine reveal" data-tilt tabindex="0" role="button" aria-label="Open CineSense AI project details" data-project="cinesense" data-categories="ai nlp">
+          <div class="project-visual cine-visual"><div class="card-spotlight" aria-hidden="true"></div><div class="cine-backdrop"><div class="film-orbit"></div><div class="film-core">C<span>✦</span></div><div class="cine-title">CINE<span>SENSE</span><small>STORY IN. GENRE OUT.</small></div></div>
+            <div class="genre-stack"><span>SCI-FI <b>87%</b></span><span>THRILLER <b>72%</b></span><span>DRAMA <b>54%</b></span></div><div class="visual-sticker cine-sticker">MOVIE INTELLIGENCE <span>↗</span></div>
+          </div>
+          <div class="project-details"><div class="project-topline"><span>04 — MACHINE LEARNING / NLP</span><span class="project-number">04</span></div><h3>CineSense AI<span class="project-title-tail"> — Movie Genre Prediction</span></h3><p>A web app that predicts movie genres from plot summaries using text preprocessing, TF-IDF features, and a trained Logistic Regression model.</p><div class="project-footer"><div class="tech-tags"><span>Python</span><span>Flask</span><span>NLP</span><span>scikit-learn</span></div><a class="project-link" href="https://github.com/UdaySthapak555/CineSense-AI" target="_blank" rel="noreferrer">Explore repository <span>↗</span></a></div></div>
         </article>
 
+        <article class="project-card project-fraud reveal" data-tilt tabindex="0" role="button" aria-label="Open Credit Card Fraud Detection project details" data-project="fraud" data-categories="ai">
+          <div class="project-visual fraud-visual"><div class="card-spotlight" aria-hidden="true"></div><div class="fraud-console"><div class="console-top"><span>TRANSACTION MONITOR</span><span class="console-dot">● MODEL READY</span></div>
+            <div class="fraud-summary"><div><small>MODEL SELECTED</small><strong>Decision Tree</strong></div><div><small>ROC-AUC</small><strong>95.43<span>%</span></strong></div></div>
+            <div class="fraud-bars"><i style="--bar:34%"></i><i style="--bar:58%"></i><i style="--bar:45%"></i><i style="--bar:76%"></i><i style="--bar:53%"></i><i style="--bar:88%"></i><i style="--bar:62%"></i><i style="--bar:47%"></i><i style="--bar:72%"></i><i style="--bar:57%"></i><i style="--bar:80%"></i><i style="--bar:39%"></i></div>
+            <div class="fraud-alert"><span>↗</span><div><b>Fraud screening pipeline</b><small>Precision · Recall · F1 · ROC-AUC</small></div></div>
+          </div><div class="visual-sticker fraud-sticker">FINTECH / ML <span>↗</span></div></div>
+          <div class="project-details"><div class="project-topline"><span>05 — DATA SCIENCE / FINTECH</span><span class="project-number">05</span></div><h3>Credit Card Fraud Detection</h3><p>A transaction-classification project comparing Logistic Regression, Decision Tree, and Random Forest, with a Streamlit interface for fraud screening.</p><div class="project-footer"><div class="tech-tags"><span>Python</span><span>scikit-learn</span><span>Pandas</span><span>Streamlit</span></div><a class="project-link" href="https://github.com/UdaySthapak555/credit-card-fraud-detection-ml" target="_blank" rel="noreferrer">Explore repository <span>↗</span></a></div></div>
+        </article>
+      </div>
+      <div class="work-footnote"><span class="footnote-star">✳</span><p>Small steps, consistent experiments, and a lot of curiosity. More projects will land here as they’re ready.</p><span class="mono">MORE IN THE WORKS / 2026</span></div>
     </section>
 
-
-    <!-- ================= SKILLS ================= -->
-
-    <section
-        id="skills"
-        class="skills"
-    >
-
-        <div class="section-label">
-
-            <span>03</span>
-
-            SKILLS & TOOLS
-
-        </div>
-
-
-        <div class="skills-grid">
-
-
-            <div class="skill-category">
-
-                <span class="skill-number">
-                    01
-                </span>
-
-                <h3>
-                    Programming
-                </h3>
-
-
-                <div class="skill-list">
-
-                    <span class="skill-item">
-                        Python
-                    </span>
-
-                    <span class="skill-item">
-                        C
-                    </span>
-
-                    <span class="skill-item">
-                        C++
-                    </span>
-
-                    <span class="skill-item">
-                        Java
-                    </span>
-
-                </div>
-
-            </div>
-
-
-            <div class="skill-category">
-
-                <span class="skill-number">
-                    02
-                </span>
-
-                <h3>
-                    AI & Data
-                </h3>
-
-
-                <div class="skill-list">
-
-                    <span class="skill-item">
-                        Machine Learning
-                    </span>
-
-                    <span class="skill-item">
-                        NLP
-                    </span>
-
-                    <span class="skill-item">
-                        Scikit-learn
-                    </span>
-
-                    <span class="skill-item">
-                        Pandas
-                    </span>
-
-                </div>
-
-            </div>
-
-
-            <div class="skill-category">
-
-                <span class="skill-number">
-                    03
-                </span>
-
-                <h3>
-                    Web Development
-                </h3>
-
-
-                <div class="skill-list">
-
-                    <span class="skill-item">
-                        HTML
-                    </span>
-
-                    <span class="skill-item">
-                        CSS
-                    </span>
-
-                    <span class="skill-item">
-                        JavaScript
-                    </span>
-
-                    <span class="skill-item">
-                        Flask
-                    </span>
-
-                </div>
-
-            </div>
-
-
-            <div class="skill-category">
-
-                <span class="skill-number">
-                    04
-                </span>
-
-                <h3>
-                    Tools
-                </h3>
-
-
-                <div class="skill-list">
-
-                    <span class="skill-item">
-                        Git
-                    </span>
-
-                    <span class="skill-item">
-                        GitHub
-                    </span>
-
-                    <span class="skill-item">
-                        VS Code
-                    </span>
-
-                    <span class="skill-item">
-                        Streamlit
-                    </span>
-
-                </div>
-
-            </div>
-
-        </div>
-
-
-        <div class="learning-content">
-
-            <span class="learning-dot"></span>
-
-            <p>
-
-                Currently learning and exploring new technologies,
-                improving my development skills, and building
-                practical projects.
-
-            </p>
-
-        </div>
-
+    <section class="about section-shell section-pad" id="about">
+      <div class="section-top"><span class="section-number">02 / THE PERSON BEHIND THE CODE</span><span class="section-note">NOT JUST A STACK OF TOOLS <span>↘</span></span></div>
+      <div class="about-layout">
+        <div class="about-title reveal"><span class="portrait-label">A LITTLE ABOUT ME</span><h2>Curiosity is<br>my <span>unfair<br>advantage.</span></h2><div class="signature">UDAY STHAPAK <span>✳</span></div></div>
+        <div class="about-copy reveal"><p class="about-lead">I’m a BCA student at Galgotias University, focused on AI/ML and software development.</p><p>I like building things that teach me something new — from working with text and machine learning models to connecting frontend interfaces with backend logic. I’m drawn to the process: understanding a problem, testing ideas, and iterating until the experience feels right.</p><p>Right now, I’m sharpening my foundations, learning through projects, and working toward becoming a developer who can build useful products end to end.</p><div class="about-facts"><div><span>01</span><b>Learn by building</b></div><div><span>02</span><b>Stay curious</b></div><div><span>03</span><b>Improve every iteration</b></div></div><a class="inline-link" href="https://www.linkedin.com/in/udaysthapak/" target="_blank" rel="noreferrer">LET'S CONNECT ON LINKEDIN <span>↗</span></a></div>
+      </div>
     </section>
 
-
-    <!-- ================= CONTACT ================= -->
-
-    <section
-        id="contact"
-        class="contact-placeholder"
-    >
-
-        <div class="section-label">
-
-            <span>04</span>
-
-            CONTACT
-
-        </div>
-
-
-        <h2>
-
-            Let's build
-
-            <span>
-                something.
-            </span>
-
-        </h2>
-
-
-        <p>
-
-            Interested in working together or connecting?
-
-        </p>
-
-
-        <div class="contact-buttons">
-
-            <a
-                href="https://www.linkedin.com/in/udaysthapak/"
-                target="_blank"
-                class="primary-btn"
-            >
-
-                Connect on LinkedIn ↗
-
-            </a>
-
-
-            <a
-                href="https://github.com/UdaySthapak555"
-                target="_blank"
-                class="secondary-btn"
-            >
-
-                View GitHub ↗
-
-            </a>
-
-        </div>
-
+    <section class="stack section-shell section-pad" id="stack">
+      <div class="section-top"><span class="section-number">03 / TOOLKIT</span><span class="section-note">TOOLS I USE TO MAKE IDEAS REAL <span>↘</span></span></div>
+      <div class="stack-heading reveal"><h2>My current<br><span>toolkit.</span></h2><p>Not a checklist to collect — a set of tools I’m actively using, practicing, and improving with.</p></div>
+      <div class="toolkit-grid reveal">
+        <div class="toolkit-card" data-tilt><div class="toolkit-card-top"><span class="tool-icon icon-code">⌘</span><span class="tool-index">01</span></div><h3>Languages</h3><p>Building blocks for problem-solving and applications.</p><div class="tool-list"><span>Python</span><span>C++</span><span>Java</span><span>JavaScript</span><span>SQL</span></div></div>
+        <div class="toolkit-card" data-tilt><div class="toolkit-card-top"><span class="tool-icon icon-ai">✳</span><span class="tool-index">02</span></div><h3>AI & Machine Learning</h3><p>Working with data, text, models, and generative AI.</p><div class="tool-list"><span>scikit-learn</span><span>TF-IDF</span><span>NLP</span><span>Gemini API</span><span>Pandas</span><span>NumPy</span></div></div>
+        <div class="toolkit-card" data-tilt><div class="toolkit-card-top"><span class="tool-icon icon-web">◈</span><span class="tool-index">03</span></div><h3>Web & Backend</h3><p>Connecting useful interfaces to reliable logic.</p><div class="tool-list"><span>React</span><span>FastAPI</span><span>Streamlit</span><span>REST APIs</span><span>HTML / CSS</span></div></div>
+        <div class="toolkit-card" data-tilt><div class="toolkit-card-top"><span class="tool-icon icon-tools">↗</span><span class="tool-index">04</span></div><h3>Foundations & Tools</h3><p>Practices that help me ship, debug, and collaborate.</p><div class="tool-list"><span>Git / GitHub</span><span>OOP</span><span>DSA</span><span>DBMS</span><span>Debugging</span></div></div>
+      </div>
     </section>
 
+    <section class="journey section-shell section-pad" id="journey">
+      <div class="section-top"><span class="section-number">04 / JOURNEY</span><span class="section-note">ALWAYS IN PROGRESS <span>↘</span></span></div>
+      <div class="journey-layout">
+        <div class="journey-heading reveal"><h2>Every step<br><span>adds up.</span></h2><p>The path so far — with plenty more to learn and build.</p></div>
+        <div class="timeline reveal">
+          <div class="timeline-item"><div class="timeline-marker"><span></span></div><div class="timeline-date">JUL 2026 <span>EXPERIENCE</span></div><div class="timeline-body"><h3>Machine Learning Intern</h3><p class="timeline-org">CodSoft · Virtual Internship</p><p>Worked through machine-learning project tasks, including credit card fraud detection and movie genre classification using Python and scikit-learn.</p></div></div>
+          <div class="timeline-item"><div class="timeline-marker"><span></span></div><div class="timeline-date">CURRENT <span>EDUCATION</span></div><div class="timeline-body"><h3>Bachelor of Computer Applications</h3><p class="timeline-org">Galgotias University · AI & Machine Learning</p><p>Building foundations in computer science while exploring machine learning, generative AI, and full-stack development.</p><div class="timeline-badges"><span>CGPA 8.2</span><span>Expected 2027</span></div></div></div>
+          <div class="timeline-item"><div class="timeline-marker"><span></span></div><div class="timeline-date">NEXT <span>WHAT'S AHEAD</span></div><div class="timeline-body"><h3>Build. Ship. Repeat.</h3><p>Finishing InterviewAI, strengthening core development skills, and turning more ideas into useful projects.</p></div></div>
+        </div>
+      </div>
+    </section>
 
-    <!-- ================= FOOTER ================= -->
+    <section class="contact section-shell section-pad" id="contact">
+      <div class="contact-panel reveal"><div class="contact-orb"></div><div class="contact-content"><div class="section-number">05 / YOUR TURN</div><p class="contact-overline">HAVE A PROJECT OR OPPORTUNITY?</p><h2>Let’s make<br><span>something matter.</span></h2><p class="contact-description">I’m open to learning opportunities, collaborations, and conversations about AI, software, and interesting ideas.</p><a class="btn btn-light" href="mailto:uday555sthapak@gmail.com">Say hello <span>↗</span></a></div><div class="contact-aside"><span class="contact-aside-label">FIND ME HERE</span><a href="mailto:uday555sthapak@gmail.com">Email <span>↗</span></a><a href="https://www.linkedin.com/in/udaysthapak/" target="_blank" rel="noreferrer">LinkedIn <span>↗</span></a><a href="https://github.com/UdaySthapak555" target="_blank" rel="noreferrer">GitHub <span>↗</span></a><div class="contact-availability"><span class="availability-dot"></span> Open to opportunities</div></div></div>
+    </section>
+  </main>
 
-   <footer>
-    <p>© 2026 Uday Sthapak. All rights reserved.</p>
+  <footer class="footer section-shell"><a class="footer-brand" href="#home">u<span>.</span></a><p>Designed with curiosity. Built with intention.</p><span>© <span id="year">2026</span> UDAY STHAPAK</span><a class="back-top" href="#home">BACK TO TOP ↑</a></footer>
 
-    <p class="footer-tag">
-        DESIGNED & BUILT BY UDAY STHAPAK
-    </p>
-
-    <a
-        href="#home"
-        class="back-to-top"
-        aria-label="Back to top"
-    >
-        ↑ BACK TO TOP
-    </a>
-</footer>
-<script src="script.js"></script>
+  <dialog class="project-dialog" id="project-dialog" aria-labelledby="dialog-title"><button class="dialog-close" id="dialog-close" aria-label="Close dialog">×</button><div class="dialog-kicker" id="dialog-kicker">PROJECT / DETAILS</div><h2 id="dialog-title">Project title</h2><p id="dialog-description"></p><div class="dialog-tags" id="dialog-tags"></div><div class="dialog-status" id="dialog-status"></div><a class="btn btn-primary dialog-repo" id="dialog-link" href="#" target="_blank" rel="noreferrer">View repository <span>↗</span></a></dialog>
+  <button class="back-to-top" id="back-to-top" type="button" aria-label="Back to top" title="Back to top">↑<span>TOP</span></button>
+  <div class="command-overlay" id="command-overlay" aria-hidden="true">
+    <div class="command-backdrop" data-command-close></div>
+    <section class="command-panel" role="dialog" aria-modal="true" aria-labelledby="command-title">
+      <div class="command-head"><span id="command-title">QUICK NAVIGATION</span><kbd>ESC</kbd></div>
+      <div class="command-search-icon">⌕</div>
+      <input id="command-input" type="text" placeholder="Jump to a section or project…" autocomplete="off" aria-label="Search sections and projects">
+      <div class="command-hint">TYPE TO FILTER · ENTER TO OPEN</div>
+      <div class="command-items" id="command-items">
+        <button type="button" data-command-target="#home"><span>⌂</span><span>Home <small>Introduction</small></span><kbd>01</kbd></button>
+        <button type="button" data-command-target="#work"><span>✳</span><span>Selected work <small>Explore projects</small></span><kbd>02</kbd></button>
+        <button type="button" data-command-target="#about"><span>◎</span><span>About <small>Background and focus</small></span><kbd>03</kbd></button>
+        <button type="button" data-command-target="#stack"><span>⌘</span><span>Tech stack <small>Tools and skills</small></span><kbd>04</kbd></button>
+        <button type="button" data-command-target="#contact"><span>↗</span><span>Contact <small>Start a conversation</small></span><kbd>05</kbd></button>
+      </div>
+      <div class="command-foot"><span>PORTFOLIO INTERFACE</span><span><kbd>CTRL</kbd> + <kbd>K</kbd> TO OPEN</span></div>
+    </section>
+  </div>
 </body>
 </html>
