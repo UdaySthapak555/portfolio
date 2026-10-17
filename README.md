@@ -1,34 +1,36 @@
-# ⚡ UDAY STHAPAK
-### `AI/ML Developer` · `Full-Stack Developer` · `BCA Student`
+![Uday Sthapak — Cozy Sunset Developer Banner](portfolio-banner.png)
 
 <div align="center">
 
-# Building Ideas Into Intelligent Experiences.
+# ⚡ UDAY STHAPAK
 
-**I build AI-powered applications, machine learning solutions, and interactive web experiences.**
+### `AI/ML Developer` · `Full-Stack Developer` · `BCA Student`
+
+**Building intelligent applications, solving problems, and turning ideas into reality.**
 
 <br/>
 
-[🚀 **EXPLORE MY PORTFOLIO**](https://udaysthapak555.github.io/portfolio/)  
-[💻 GitHub](https://github.com/UdaySthapak555) · [🔗 LinkedIn](https://linkedin.com/in/udaysthapak)
+[🌅 **VISIT MY LIVE PORTFOLIO →**](https://udaysthapak555.github.io/portfolio/)
+
+[💻 GitHub](https://github.com/UdaySthapak555) · [🔗 LinkedIn](https://linkedin.com/in/udaysthapak) · [✉️ Email](mailto:uday555sthapak@gmail.com)
 
 </div>
 
 ---
 
-## ◈ &nbsp; ABOUT ME
+## ◈ ABOUT ME
 
-- 🎓 BCA — Artificial Intelligence & Machine Learning
-- 🤖 Interested in Machine Learning, NLP, and Generative AI
-- 🌐 Building responsive applications with React and FastAPI
-- 🧠 Exploring practical AI solutions to real-world problems
-- ⚡ Focused on learning, experimenting, and shipping projects
+- 🎓 BCA student specializing in Artificial Intelligence and Machine Learning.
+- 🤖 Interested in Machine Learning, NLP, and Generative AI.
+- 🌐 Building web applications using React, FastAPI, and Streamlit.
+- 🧠 Exploring practical AI solutions for real-world problems.
+- ⚡ Always learning, experimenting, and building new projects.
 
 ---
 
-## ◈ &nbsp; TECH STACK
+## ◈ TECH STACK
 
-**Languages**
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -36,14 +38,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**AI / ML**
+### AI / Machine Learning
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)
 
-**Web Development & Tools**
+### Web Development & Tools
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -53,68 +55,81 @@
 
 ---
 
-## ◈ &nbsp; FEATURED PROJECTS
+## ◈ FEATURED PROJECTS
 
 ### 🏥 MEDAI — AI Medical Report Assistant
-**Python · FastAPI · React · Machine Learning**
 
-An AI-focused application designed to classify medical reports, extract useful lab values, and present information in a more understandable format. It is intended for informational support, not medical diagnosis.
+**Tech:** Python · FastAPI · React · Machine Learning
 
-[↗ View Repository](https://github.com/UdaySthapak555/MEDAI)
+An AI-focused application designed to classify medical reports, extract useful laboratory values, and explain information in a more understandable format. It provides informational support, not medical diagnosis.
+
+[↗ Explore MEDAI on GitHub](https://github.com/UdaySthapak555/MEDAI)
 
 ### 🛡️ SpamShield AI — Spam SMS Detection
-**Python · NLP · Machine Learning**
+
+**Tech:** Python · NLP · Machine Learning
 
 A machine learning project focused on identifying spam messages using text-processing and classification techniques.
 
-[↗ View Repository](https://github.com/UdaySthapak555/spam-sms-detection)
+[↗ Explore SpamShield AI](https://github.com/UdaySthapak555/spam-sms-detection)
 
 ### 🎬 CineSense AI
-**Python · Machine Learning**
+
+**Tech:** Python · Machine Learning
 
 A movie-related machine learning project exploring genre classification and text-based insights.
 
-[↗ View Repository](https://github.com/UdaySthapak555/CineSense-AI)
+[↗ Explore CineSense AI](https://github.com/UdaySthapak555/CineSense-AI)
 
 ### 💳 Credit Card Fraud Detection
-**Python · Data Science · Machine Learning**
+
+**Tech:** Python · Data Science · Machine Learning
 
 A machine learning project focused on detecting potentially fraudulent credit card transactions.
 
-[↗ View Repository](https://github.com/UdaySthapak555/credit-card-fraud-detection-ml)
+[↗ Explore the Repository](https://github.com/UdaySthapak555/credit-card-fraud-detection-ml)
 
 ### 🎙️ InterviewAI — AI Mock Interview Platform
-**Python · Streamlit · Gemini API**
+
+**Tech:** Python · Streamlit · Gemini API
 
 An in-progress project exploring personalized interview questions, answer evaluation, and feedback based on a user's resume.
 
 ---
 
-## ◈ &nbsp; GITHUB ACTIVITY
+## ◈ GITHUB ACTIVITY
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=UdaySthapak555&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=UdaySthapak555&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UdaySthapak555&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UdaySthapak555&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=UdaySthapak555&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdaySthapak555&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 
 </div>
 
 ---
 
-## ◈ &nbsp; LET'S CONNECT
-
-Have an idea, collaboration, or opportunity? Let's connect and build something meaningful.
+## ◈ LET'S CONNECT
 
 <div align="center">
 
-### **Curious about what I build?**
+### Have an idea? Let's build something meaningful.
 
-[🚀 **CLICK HERE TO VISIT MY PORTFOLIO**](https://udaysthapak555.github.io/portfolio/)
+Open to connecting with developers, learning from others, and exploring interesting projects.
 
-[GitHub](https://github.com/UdaySthapak555) · [LinkedIn](https://linkedin.com/in/udaysthapak) · [Email](mailto:uday555sthapak@gmail.com)
+<br/>
+
+[🚀 **EXPLORE MY PORTFOLIO**](https://udaysthapak555.github.io/portfolio/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UdaySthapak555)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udaysthapak)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uday555sthapak@gmail.com)
 
 <br/>
 
